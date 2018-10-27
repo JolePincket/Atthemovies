@@ -1,0 +1,352 @@
+body{
+    background:url()
+}
+
+
+row>div {
+    /*border: solid 1px green;
+      display: flex;*/
+  }
+
+
+h3,h4,h1,h2{
+    font-family: 'Oswald', sans-serif;
+    
+}
+  .jumbotron-fluid{
+      padding: 5px;
+      margin-bottom:-5px;
+      background-color:#2019EB;
+      color:white;
+      border:5px dotted white;
+      
+  }
+
+  .logo{
+      height:75px;
+      width:75px;
+      position:relative;
+      display:inline-block;
+      top:20px;
+     margin-bottom:-50px;
+  }
+  .jumbotron-fluid h1{
+  text-transform:uppercase;
+  font-family: 'Oswald', sans-serif;
+  font-weight:600;
+  }
+
+  .jumbotron-fluid p{
+    font-family: 'Open Sans', sans-serif;
+    font-size:15px;
+  }
+
+.display-4{
+    text-align: right;
+}
+
+.lead{
+    text-align:right;
+}
+
+
+.col-empty{
+    margin-left: 20px;
+    
+}
+
+.col-article{
+    float:right;
+    margin-left: 0;
+    top:-25px;
+    padding-left: 100px;
+    
+    
+    
+}
+
+.article_1{
+    height:100%;
+    top:-60px; 
+    width:100%;
+    position:relative
+ 
+    
+    
+}
+
+.bg-1{
+    background:url("../Images/nummer1.jpg")no-repeat;     
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+     background-size: cover;
+     height: 500px;
+     bottom:-30px;
+     top:-10px;
+     border:5px dotted #2019EB;
+}
+
+
+
+
+.article_2{
+    background:url("../Images/number2.jpg")no-repeat;
+    background-size:cover;
+    height:100%;
+    width:100%;
+    padding:20px;
+    margin-left: 0;
+   margin-top: 20px;
+    padding-left: 250px;
+    padding-right:20px;
+    margin-right: 20px;
+}
+
+
+.article_3{
+    background:url("../Images/number3.jpg")no-repeat;
+    background-size:cover;  
+    height:100%;
+    width:100%;
+    padding:20px;
+    margin-left: 0;
+    margin-top: 20px;
+    padding-left: 250px;
+    padding-right:20px;
+    margin-right: 20px;
+    
+    
+}
+
+.article_4{
+    background:url("../Images/number4.jpg")no-repeat;
+    background-size:cover;
+    height:100%;
+    width:100%;
+    padding:20px;
+    margin-left: 0;
+   margin-top: 20px;
+    padding-left: 250px;
+    padding-right:20px;
+    margin-right: 20px;
+    
+    
+}
+
+.article_5{
+    background:url("../Images/number5.jpg")no-repeat;
+    background-size:cover;
+    height:100%;
+    width:100%;
+    padding:20px;
+    margin-left: 0;
+   margin-top: 20px;
+    padding-left: 250px;
+    padding-right:20px;
+    margin-right: 20px;
+    
+    
+}
+
+h1{
+    font-size:32px;
+    font-weight:600;
+}
+
+h3{
+   
+    font-size: 32px;
+    font-weight:600; 
+    color:#2019EB;  
+}
+
+h4{
+    
+    font-size: 15px;
+    color:#2019EB; 
+    font-weight:600;
+
+}
+
+p3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color:#2019EB; 
+    font-weight:600;
+}
+
+p4 ul >li{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left:20px;
+    font-weight:600;
+    color:#2019EB; 
+}
+
+.text_position{
+    position:relative;
+    
+}
+.text_position >h3{
+    color:#2019EB;  
+    
+  }
+  .text_position >h1{
+    color:#2019EB;  
+}
+
+    
+.text_position >p1{
+    margin-top:-5px;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight:600; 
+    color:#FFFFFF;  
+    
+}
+
+p1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color:#FFFFFF; 
+    font-weight:600;
+    top:-2px;
+}
+
+ul > li {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    margin-top: 5px;
+    font-weight:600;
+    color:#FFFFFF; 
+    
+}
+
+
+
+.number1{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    display:inline-block;
+    top:10px;
+    left:-40px;
+}
+
+.number{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    background-color:#2019EB;
+    color: #FFFFFF;
+    text-align: center;
+    font: 32px Arial, sans-serif;
+    position:relative;
+    display:inline-block;
+    top:85px;
+    left: 20px;
+}
+
+.eerst{
+    margin-top: 20px;  
+  }
+
+.eersterij{
+    margin-bottom:20px;
+    margin-top:-40px;
+  }
+
+
+.tweederij{
+    margin-top: 20px;  
+    margin-bottom: 20px;
+  }
+
+.btn_container{
+    top: 330px;
+    position:absolute;
+    left:150px;
+    float:right;
+}
+.btn-dark{
+    padding: 15px 32px;
+    display:block;
+    text-decoration: none;
+    font-size: 16px;
+    position: relative;
+    background-color:#2019EB;
+    border:0px;
+    top: 30px;
+    float:right;
+   
+}
+
+
+footer{
+    margin-top:70px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-top:5px dotted #2019EB;
+    
+}
+
+.container_footer{
+    margin-bottom:15px;
+}
+
+footer p{
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight:600;
+    font-family: 'Open Sans', sans-serif;
+    color:#2019EB;
+    margin-top:10px;
+    
+}
+
+.logo_ahs img{
+    height:6% ;
+    width:4% ;
+    float:right;
+    position:relative;
+    top:-30px;
+    bottom:5px;
+    
+}
+
+  
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald:400,700');
+
+/* MEDIA QUERIES
+*********************************************/
+
+
+/* Extra small devices (portrait phones, less than 576px)
+/ No media query since this is the default in Bootstrap*/
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) {}
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {}
+
+
+/* Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) {}
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {}
